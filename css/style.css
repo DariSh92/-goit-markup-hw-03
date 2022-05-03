@@ -99,6 +99,7 @@ body {
   background-color: var(--accent-color);
 }
 .main-section {
+  text-align: center;
   background-color: var(--main-bcg-color);
 }
 
@@ -171,13 +172,14 @@ body {
 
 .section-title {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 40px;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--primary-white-color);
+  outline: 2px solid tomato;
 }
 
 .order-button {
