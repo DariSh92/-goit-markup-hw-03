@@ -68,17 +68,18 @@ body {
 }
 .nav-menu {
   display: flex;
+  margin-left: 93px;
   padding: 0;
-  margin-left: 50px;
 }
 .nav-menu .li + .li {
   margin-left: 50px;
 }
 .nav-menu.item {
+  margin-left: 50px;
   outline: 2px solid tomato;
 }
-.nav-menu.item:last-child {
-  margin-right: 0;
+.nav-menu.item:first-child {
+  margin-left: 0;
 }
 /* BG футер */
 
@@ -304,6 +305,7 @@ body {
 .staff {
   padding-top: 30px;
   padding-bottom: 30px;
+  text-align: center;
 }
 
 .team-section {
