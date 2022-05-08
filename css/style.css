@@ -34,7 +34,6 @@ img {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  /* padding-top: ; */
   text-decoration: none;
 }
 .logo-header {
@@ -46,7 +45,6 @@ img {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  /* padding-top: ; */
   text-decoration: none;
 }
 .logo-footer {
@@ -200,6 +198,7 @@ img {
 }
 
 /* Проэкты (картинки) */
+
 .main-section {
   padding-top: 200px;
   padding-bottom: 280px;
@@ -238,6 +237,7 @@ img {
   border-top: 0;
 }
 /* Футер Портфолио */
+
 .contacts-item {
   color: var(--primary-white-color);
   font-size: 14px;
@@ -266,7 +266,6 @@ img {
   line-height: 2;
 }
 .location {
-  /* margin-top: 20px; */
   font-style: normal;
 }
 
